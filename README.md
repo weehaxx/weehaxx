@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nhor Anthon D. Catre</h1>
-<h3 align="center">A passionate frontend developer from Catalunan Grande, Davao City.</h3>
+<h3 align="center">A passionate developer from Catalunan Grande, Davao City.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weehaxx&label=Profile%20views&color=0e75b6&style=flat" alt="weehaxx" /> </p>
 
