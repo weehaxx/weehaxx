@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weehaxx" alt="weehaxx" /></a> </p>
 
-- 🔭 I’m currently working on [SalonHub](https://github.com/weehaxx/SalonHub)
-
 - 🌱 I’m currently learning **Javascript and React**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1oN7PXw6q2zZi7wYoeuTdpNJISd_kwYK7?usp=drive_link](https://drive.google.com/drive/folders/1oN7PXw6q2zZi7wYoeuTdpNJISd_kwYK7?usp=drive_link)
